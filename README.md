@@ -2,15 +2,11 @@
 ## 🤖 A1Bot (Bot nghe nhạc trên Discord)
 > A1Bot là một con bot âm nhạc Discord. Tạo bởi TrungLapTrinh
 
-## Requirements
-
-⚠️ **Ghi chú: Đừng share Token và API của bạn khi đang ở chế độ công khai** ⚠️
-
-## 🐬 Invite Bot
+## 🐬 Mời Bot
 
 [Invite Bot Here]()
 
-## 📝 Features & Commands
+## 📝 Dòng lệnh
 
 > Ghi chú: Dòng lệnh mặc định là '.'
 
