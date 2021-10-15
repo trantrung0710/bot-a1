@@ -1,6 +1,7 @@
 # Vietnamese
 ## 🤖 A1Bot (Bot nghe nhạc trên Discord)
 > A1Bot là một con bot âm nhạc Discord. Tạo bởi TrungLapTrinh
+> ⚠️ **Chú ý: Không chia sẻ API và Token cho bất kì ai** ️⚠️
 
 ## 🐬 Mời Bot
 
@@ -63,10 +64,7 @@ Check the uptime<br>
 # English
 ## 🤖 A1Bot (Discord Music Bot)
 > A1Bot is a Discord music bot. Created by TrungLapTrin
-
-## Requirements
-
-⚠️ **Note: Do not share your Token and API while it is public** ️
+> ⚠️ **Note: Do not share your Token and API while it is public** ️⚠️
 
 ## Invite Bot
 
