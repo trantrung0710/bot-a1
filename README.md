@@ -66,11 +66,11 @@ Check the uptime<br>
 > A1Bot is a Discord music bot. Created by TrungLapTrin
 > ⚠️ **Note: Do not share your Token and API while it is public** ️⚠️
 
-## Invite Bot
+## 🐬 Invite Bot
 
 [Invite Bot Here]()
 
-## Commands
+## 📝 Commands
 
 > Note: Default command line is '.'
 
@@ -121,5 +121,5 @@ Check the uptime<br>
 * .volume (v)
 Adjust the volume of the currently playing song.<br>
 
-## About us
+## 📝 About us
 [@TrungLapTring](https://github.com/trunglaptrinh) Follow me at github <br><br><br> 
