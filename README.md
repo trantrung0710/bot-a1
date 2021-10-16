@@ -122,4 +122,4 @@ Check the uptime<br>
 Adjust the volume of the currently playing song.<br>
 
 ## 📝 About us
-[@TrungLapTring](https://github.com/trunglaptrinh) Follow me at github <br><br><br> 
+[@TrungLapTrinh](https://github.com/trunglaptrinh) Follow me at github
